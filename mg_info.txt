@@ -1,0 +1,14 @@
+MAILGW01.kmhp.com made the following annotations
+---------------------------------------------------------------------
+NOTICE: This email message is for the sole use of the intended recipient(s) 
+ and may contain confidential and privileged information. Any unauthorized 
+ review, use, disclosure or distribution is prohibited. If you are not the 
+ intended recipient, please contact the sender by reply email and destroy all 
+ copies of the original message. 
+
+This message has been content scanned by the Axway MailGate. 
+MailGate uses policy enforcement to scan for known viruses, spam, undesirable
+content and malicious code. For more information on Axway products please visit
+www.axway.com.
+---------------------------------------------------------------------
+
